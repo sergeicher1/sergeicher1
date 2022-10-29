@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sergeicher  Sergei Chernyahovsky 
-- 👀 I’m interested in ... Code Develop Create QA Sleep...Repeat .....
-- 🌱 I’m currently learning ... C# Python html xaml   .NET CORE UNITY ASP.NET  and finally QA!. 
+- 👀 I’m interested in ... Developing Automation Infrastructure
+- 🌱 I’m currently learning ... QA Automation
 - 💞️ I’m looking to collaborate on ... intersting projects 
 - 📫 How to reach me ...   sergeicher87@gmail.com 
 
