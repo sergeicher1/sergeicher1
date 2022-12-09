@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergei</h1>
-<h3 align="center">A passionate Automation Infrastructure Developer from Israel</h3>
+<h3 align="center">QA tester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeicher1&label=Profile%20views&color=0e75b6&style=flat" alt="sergeicher1" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [http://sergeicher.pro/](http://sergeicher.pro/)
 
-- 💬 Ask me about **Python, Test Automation, PyTest**
+- 💬 Ask me about **QA, Python, Test Automation, PyTest**
 
 - 📫 How to reach me **sergeicher87@gmail.com**
 
