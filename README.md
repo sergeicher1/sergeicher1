@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergei</h1>
-<h3 align="center">QA tester</h3>
+<h3 align="center">Test Automation Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeicher1&label=Profile%20views&color=0e75b6&style=flat" alt="sergeicher1" /> </p>
 
