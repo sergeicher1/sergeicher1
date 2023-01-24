@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergei</h1>
-<h3 align="center">Test Automation Developer</h3>
+<h3 align="center">Test Automation Developer: Python-PyTest, C#-NUnit, JAVA-TestNG</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeicher1&label=Profile%20views&color=0e75b6&style=flat" alt="sergeicher1" /> </p>
 
@@ -7,19 +7,23 @@
 
 - 🌱 I’m currently learning **Clean code and Python one-liners**
 
-- 👯 I’m looking to collaborate on **Kinds of Automation projects**
+- 👯 I’m looking to collaborate on **Kinds of Automation projects in any language**
 
 - 🤝 I’m looking for help with **Finding job**
 
-- 👨‍💻 All of my projects are available at [http://sergeicher.pro/](http://sergeicher.pro/)
+- 👨‍💻 My personal website: [http://sergeicher.pro/](http://sergeicher.pro/)
 
-- 💬 Ask me about **QA, Python, Test Automation, PyTest**
+- 💬 Ask me about **QA, Python-PyTest,C#-NUnit,JAVA-TestNG, Test Automation**
 
-- 📫 How to reach me **sergeicher87@gmail.com**
+- 📫 How to reach me **sergeicher87@gmail.com, 0535270505**
 
-- 📄 Know about my experiences [http://sergeicher.pro/](http://sergeicher.pro/)
+- 📄 Know more about me [http://sergeicher.pro/](http://sergeicher.pro/)
 
 - ⚡ Fun fact **Interviewers pass over if they don't see the work experience**
+
+- Favorite quote: **“Always code as if the guy who ends up
+                                                maintaining your code will be a violent
+                                                    psychopath who knows where you live”** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
