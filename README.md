@@ -13,8 +13,6 @@
 
 - 👨‍💻 My personal website: [http://sergeicher.pro/](http://sergeicher.pro/)
 
-- 💬 Ask me about **QA, Python-PyTest,C#-NUnit,JAVA-TestNG, Test Automation**
-
 - 📫 How to reach me **sergeicher87@gmail.com, 0535270505**
 
 - 📄 Know more about me [http://sergeicher.pro/](http://sergeicher.pro/)
@@ -25,10 +23,6 @@
                                                 maintaining your code will be a violent
                                                     psychopath who knows where you live”** 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sergei-chernyahovsky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergei-chernyahovsky" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sergei chernyahovsky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sergei chernyahovsky" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -49,4 +43,10 @@
   </li>
 </ul>
 </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sergei-chernyahovsky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergei-chernyahovsky" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sergei chernyahovsky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sergei chernyahovsky" height="30" width="40" /></a>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergeicher1&show_icons=true&locale=en&layout=compact" alt="sergeicher1" /></p>
