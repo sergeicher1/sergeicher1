@@ -11,7 +11,7 @@
 
 - 👨‍💻 My website: currently unavailable
 
-- 📫 How to reach me **sergeicher87@gmail.com, 0535270505**
+- 📫 How to reach me **sergeicher87@gmail.com, tel:0535270505**
 
 - 📄 Know more about me [https://www.linkedin.com/in/sergei-chernyahovsky/?originalSubdomain=il](http://sergeicher.pro](https://www.linkedin.com/in/sergei-chernyahovsky/?originalSubdomain=il/)
 
