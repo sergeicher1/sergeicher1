@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sergeicher87@gmail.com, tel:0535270505**
 
-- 📄 Know more about me [https://www.linkedin.com/in/sergei-chernyahovsky/?originalSubdomain=il](https://www.linkedin.com/in/sergei-chernyahovsky/?originalSubdomain=il/)
+- 📄 Know more about me [https://www.linkedin.com](https://www.linkedin.com/in/sergei-chernyahovsky/?originalSubdomain=il/)
 
 - ⚡ Fun fact **Interviewers pass over if they don't see the work experience**
 
