@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sergei</h1>
-<h3 align="center">Test Automation Enthusiast: Python-PyTest, C#-NUnit, JAVA-TestNG</h3>
+<h3 align="center">Software Developer, Test Automation Enthusiast, Instructor at MEGO College </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeicher1&label=Profile%20views&color=0e75b6&style=flat" alt="sergeicher1" /> </p>
 
-- 🔭 I’m currently working on **Automation Infrastructure Projects**
+- 🔭 I’m currently working on **Web Full-Stack development** **Automation Infrastructure Projects**
 
-- 🌱 I’m currently learning **Clean code and Python one-liners**
+- 🌱 I’m currently learning **Python one-liners**
 
-- 👯 I’m looking to collaborate on **Kinds of Automation projects in any language**
+- 👯 I’m looking to collaborate on **Kinds of Software Development and Automation projects in any language**
 
-- 🤝 I’m looking for help with **Finding a job**
-
-- 👨‍💻 My personal website: [http://sergeicher.pro/](http://sergeicher.pro/)
+- 👨‍💻 My website: currently unavailable
 
 - 📫 How to reach me **sergeicher87@gmail.com, 0535270505**
 
-- 📄 Know more about me [http://sergeicher.pro/](http://sergeicher.pro/)
+- 📄 Know more about me [https://www.linkedin.com/in/sergei-chernyahovsky/?originalSubdomain=il](http://sergeicher.pro](https://www.linkedin.com/in/sergei-chernyahovsky/?originalSubdomain=il/)
 
 - ⚡ Fun fact **Interviewers pass over if they don't see the work experience**
 
