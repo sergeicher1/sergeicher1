@@ -28,6 +28,9 @@
 <p>Newely languages and tools: 
 <ul>
   <li>
+    React
+  </li>
+  <li>
     JavaScript
   </li>
   <li>
