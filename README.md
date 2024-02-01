@@ -12,7 +12,7 @@ Passionate about software development and test automation, I am currently workin
 - 🌱 Currently learning Python one-liners
 - 👯 Open to collaboration on various Software Development and Automation projects in any language
 - 📫 Reach me at mailto:sergeicher87@gmail.com or +972535270505
-- 💼 [Check out my portfolio](https://www.zero-to-hero.dev/)
+- 💼 [Check out my portfolio](https://www.zero-to-hero.dev/freeContent/otherprojects)
 - 📄 [LinkedIn Profile](https://www.linkedin.com/in/sergei-chernyahovsky/?originalSubdomain=il/)
 - ⚡ Fun fact: Interviewers pass over if they don't see the work experience
 - 💬 Favorite quote: "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live"
