@@ -11,7 +11,8 @@ Passionate about software development and test automation, I am currently workin
 
 - 🌱 Currently learning Python one-liners
 - 👯 Open to collaboration on various Software Development and Automation projects in any language
-- 📫 Reach me at mailto:sergeicher87@gmail.com or +972535270505
+- 📫 Reach me at <a href="mailto:sergeicher87@gmail.com" style="text-decoration: none; color: white;"> sergeicher87@gmail.com
+            </a>
 - 💼 [Check out my portfolio](https://www.zero-to-hero.dev/freeContent/otherprojects)
 - 📄 [LinkedIn Profile](https://www.linkedin.com/in/sergei-chernyahovsky/?originalSubdomain=il/)
 - ⚡ Fun fact: Interviewers pass over if they don't see the work experience
