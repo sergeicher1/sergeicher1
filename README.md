@@ -28,6 +28,7 @@ Passionate about software development and test automation, I am currently workin
 - TypeScript
 - Angular
 - Node.js
+- Next.js
 
 ### Connect with Me
 
