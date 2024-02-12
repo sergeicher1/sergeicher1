@@ -2,7 +2,7 @@
 <h3 align="center">CEO at zero.to.hero.dev and Software Developer | Test Automation Enthusiast | Software Development Instructor at MEGO College </h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sergeicher1&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sergeicher1" />
+  <img src="https://komarev.com/ghpvc/?username=sergeicher1&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sergeicher1" style="float: right;" />
 </p>
 
 ### About Me
