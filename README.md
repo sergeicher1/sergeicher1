@@ -1,5 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Sergei Chernyahovsky</h1>
-<h3 align="center">CEO, Founder, and Software Developer at zero.to.hero.dev | Test Automation Enthusiast | Software Development Instructor at MEGO College </h3>
+<h3 align="center">
+QA EngineerQA Engineer
+ZIM Integrated Shipping Services | CEO, Founder, and Software Developer at zero.to.hero.dev | Test Automation Enthusiast | Software Development Instructor at MEGO College </h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sergeicher1&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sergeicher1" />
